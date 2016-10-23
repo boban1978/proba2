@@ -1,1 +1,1 @@
-cetvrti on github github
+cetvrti on github git
